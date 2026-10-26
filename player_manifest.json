@@ -1,6 +1,6 @@
 {
   "source": "Bandcamp public track pages",
-  "generated_at": "2026-10-26T05:46:35.883932+00:00",
+  "generated_at": "2026-10-26T05:48:27.370928+00:00",
   "tracks": {
     "bc-02-1": {
       "status": "not_track_page",
@@ -9,27 +9,13 @@
       "has_published_lyrics": null
     },
     "bc-01-3": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://theoxysatx.bandcamp.com/track/poison-apple",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 3671510315,
+      "lyric_word_count": 142
     },
     "bc-04-1": {
       "status": "not_track_page",
@@ -37,28 +23,14 @@
       "type": "album",
       "has_published_lyrics": null
     },
-    "bc-01-1": {
-      "status": "id_not_found",
-      "url": "https://prurient.bandcamp.com/track/poison-apple",
+    "bc-01-2": {
+      "status": "resolved",
+      "url": "https://serqet.bandcamp.com/track/poison-apple",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": false,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 254221223,
+      "lyric_word_count": 0
     },
     "bc-06-1": {
       "status": "not_track_page",
@@ -73,303 +45,121 @@
       "has_published_lyrics": null
     },
     "bc-03-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://theancestryprogram.bandcamp.com/track/tiny-monsters",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": false,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 1677391945,
+      "lyric_word_count": 0
     },
-    "bc-01-2": {
-      "status": "id_not_found",
-      "url": "https://serqet.bandcamp.com/track/poison-apple",
+    "bc-01-1": {
+      "status": "resolved",
+      "url": "https://prurient.bandcamp.com/track/poison-apple",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": false,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 2414164753,
+      "lyric_word_count": 0
     },
     "bc-05-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://dosquatro.bandcamp.com/track/no-disqualification",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 1275237568,
+      "lyric_word_count": 144
     },
     "bc-08-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://bloodjacuzzi.bandcamp.com/track/stinky-feet",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 525098323,
+      "lyric_word_count": 187
     },
     "bc-09-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://sweettime.bandcamp.com/track/ram-hell",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": false,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 4193181778,
+      "lyric_word_count": 0
     },
     "bc-10-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://necromaniachell.bandcamp.com/track/mystical-full-moon-sorcery",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": false,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
-    },
-    "bc-11-1": {
-      "status": "id_not_found",
-      "url": "https://thebluehour.bandcamp.com/track/haunted",
-      "type": "track",
-      "has_published_lyrics": null,
-      "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 1535572370,
+      "lyric_word_count": 0
     },
     "bc-10-2": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://airsh4d3.bandcamp.com/track/mystical",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": false,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
-    },
-    "bc-11-2": {
-      "status": "id_not_found",
-      "url": "https://littleerinsworld.bandcamp.com/track/locked-in-a-haunted-attic-alone-clownvistoberween-2024-clownvis-to-the-rescue",
-      "type": "track",
-      "has_published_lyrics": null,
-      "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 2957632603,
+      "lyric_word_count": 0
     },
     "bc-12-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://evilisland.bandcamp.com/track/blinding-rage",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 3226738556,
+      "lyric_word_count": 229
+    },
+    "bc-11-1": {
+      "status": "resolved",
+      "url": "https://thebluehour.bandcamp.com/track/haunted",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 2456560821,
+      "lyric_word_count": 150
     },
     "bc-12-2": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://headingnorthpgh.bandcamp.com/track/toss-turn",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 2323959581,
+      "lyric_word_count": 166
+    },
+    "bc-11-2": {
+      "status": "resolved",
+      "url": "https://littleerinsworld.bandcamp.com/track/locked-in-a-haunted-attic-alone-clownvistoberween-2024-clownvis-to-the-rescue",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 3329126809,
+      "lyric_word_count": 99
     },
     "bc-13-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://jamesmedley.bandcamp.com/track/flimsy-steve",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 2034282066,
+      "lyric_word_count": 192
     },
     "bc-14-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://penthos.bandcamp.com/track/lady-in-black-witch-ll",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": false,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 2611960367,
+      "lyric_word_count": 0
     },
     "bc-15-3": {
       "status": "not_track_page",
@@ -378,119 +168,49 @@
       "has_published_lyrics": null
     },
     "bc-14-2": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://ragatag.bandcamp.com/track/vampire-lady",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 967801113,
+      "lyric_word_count": 176
     },
     "bc-15-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://deathrayrobin.bandcamp.com/track/spooky-without-you",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 264136140,
+      "lyric_word_count": 328
     },
     "bc-15-2": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://hauntedhotel.bandcamp.com/track/into-the-woods",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 3421315878,
+      "lyric_word_count": 277
     },
     "bc-16-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://djcutman.bandcamp.com/track/slender-man-song-ft-dj-cutman",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 387630773,
+      "lyric_word_count": 141
     },
     "bc-18-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://allratsgotoheaven.bandcamp.com/track/trash-two",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 3400907650,
+      "lyric_word_count": 113
     },
     "bc-20-1": {
       "status": "not_track_page",
@@ -499,326 +219,130 @@
       "has_published_lyrics": null
     },
     "bc-17-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://lemondemon.bandcamp.com/track/cabinet-man",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 1300617079,
+      "lyric_word_count": 335
     },
     "bc-18-2": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://soliloquium.bandcamp.com/track/dead-ends",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 653281864,
+      "lyric_word_count": 84
     },
     "bc-19-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://aflowerindisguise.bandcamp.com/track/why-ghosts-are-so-confused",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
-    },
-    "bc-21-1": {
-      "status": "id_not_found",
-      "url": "https://berserkyd.bandcamp.com/track/vampire-hero",
-      "type": "track",
-      "has_published_lyrics": null,
-      "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
-    },
-    "bc-22-2": {
-      "status": "id_not_found",
-      "url": "https://sunispoison.bandcamp.com/track/i-dreamt-i-became-a-beacon",
-      "type": "track",
-      "has_published_lyrics": null,
-      "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
-    },
-    "bc-23-1": {
-      "status": "id_not_found",
-      "url": "https://godzovwarproductions.bandcamp.com/track/the-devil-wears-well",
-      "type": "track",
-      "has_published_lyrics": null,
-      "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 1611918574,
+      "lyric_word_count": 190
     },
     "bc-22-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://adarook.bandcamp.com/track/broken-beacon",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 3018314680,
+      "lyric_word_count": 188
+    },
+    "bc-22-2": {
+      "status": "resolved",
+      "url": "https://sunispoison.bandcamp.com/track/i-dreamt-i-became-a-beacon",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 167873732,
+      "lyric_word_count": 345
+    },
+    "bc-21-1": {
+      "status": "resolved",
+      "url": "https://berserkyd.bandcamp.com/track/vampire-hero",
+      "type": "track",
+      "has_published_lyrics": false,
+      "http_status": 200,
+      "track_id": 3553281573,
+      "lyric_word_count": 0
+    },
+    "bc-23-1": {
+      "status": "resolved",
+      "url": "https://godzovwarproductions.bandcamp.com/track/the-devil-wears-well",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 3994749633,
+      "lyric_word_count": 287
     },
     "bc-24-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://sacredoath.bandcamp.com/track/tea-and-witch-cake",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
-    },
-    "bc-25-2": {
-      "status": "id_not_found",
-      "url": "https://lokore.bandcamp.com/track/fracture",
-      "type": "track",
-      "has_published_lyrics": null,
-      "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
-    },
-    "bc-25-1": {
-      "status": "id_not_found",
-      "url": "https://dancewiththedead.bandcamp.com/track/fracture-2023-remastered",
-      "type": "track",
-      "has_published_lyrics": null,
-      "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 2052589551,
+      "lyric_word_count": 275
     },
     "bc-26-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://otakumusicgroup.bandcamp.com/track/splatter-party",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 3457352527,
+      "lyric_word_count": 459
+    },
+    "bc-25-1": {
+      "status": "resolved",
+      "url": "https://dancewiththedead.bandcamp.com/track/fracture-2023-remastered",
+      "type": "track",
+      "has_published_lyrics": false,
+      "http_status": 200,
+      "track_id": 2434221292,
+      "lyric_word_count": 0
+    },
+    "bc-25-2": {
+      "status": "resolved",
+      "url": "https://lokore.bandcamp.com/track/fracture",
+      "type": "track",
+      "has_published_lyrics": false,
+      "http_status": 200,
+      "track_id": 2528213323,
+      "lyric_word_count": 0
     },
     "bc-27-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://thewraith517.bandcamp.com/track/dumb-zombie-bait-zombie-ambush",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": false,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 2549238123,
+      "lyric_word_count": 0
     },
     "bc-28-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://brat504.bandcamp.com/track/trophy-hunting",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 2377793025,
+      "lyric_word_count": 76
     },
     "bc-28-2": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://waylonjonesband.bandcamp.com/track/the-jungle-is-mine-king-willie-the-last-stand",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 793182636,
+      "lyric_word_count": 236
     },
     "bc-31-1": {
       "status": "not_track_page",
@@ -826,102 +350,46 @@
       "type": "album",
       "has_published_lyrics": null
     },
-    "bc-29-1": {
-      "status": "id_not_found",
-      "url": "https://cloudrat.bandcamp.com/track/wish-maid",
-      "type": "track",
-      "has_published_lyrics": null,
-      "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
-    },
     "bc-30-1": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://goatsurgeon.bandcamp.com/track/cookie-monster-death-metal",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 3686588268,
+      "lyric_word_count": 346
     },
-    "bc-30-2": {
-      "status": "id_not_found",
-      "url": "https://wearestereofox.bandcamp.com/track/cookie-monster",
+    "bc-29-1": {
+      "status": "resolved",
+      "url": "https://cloudrat.bandcamp.com/track/wish-maid",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 2295133269,
+      "lyric_word_count": 115
     },
     "bc-31-2": {
-      "status": "id_not_found",
+      "status": "resolved",
       "url": "https://hideous-sun-demon.bandcamp.com/track/flex",
       "type": "track",
-      "has_published_lyrics": null,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "debug": {
-        "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"f",
-        "meta": [
-          {
-            "http-equiv": "Content-Security-Policy",
-            "content": "default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';"
-          },
-          {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1"
-          }
-        ],
-        "bc_page_properties_found": false,
-        "body_length": 3036,
-        "track_id_seen": false
-      }
+      "track_id": 3801016440,
+      "lyric_word_count": 112
+    },
+    "bc-30-2": {
+      "status": "resolved",
+      "url": "https://wearestereofox.bandcamp.com/track/cookie-monster",
+      "type": "track",
+      "has_published_lyrics": false,
+      "http_status": 200,
+      "track_id": 4184755111,
+      "lyric_word_count": 0
     }
   },
   "counts": {
-    "resolved": 0,
+    "resolved": 38,
     "attempted": 45,
-    "lyrics_verified": 0
+    "lyrics_verified": 26
   }
 }
