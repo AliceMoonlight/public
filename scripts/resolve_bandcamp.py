@@ -42,7 +42,7 @@ def inspect(row):
         try: id_ = int(id_)
         except (TypeError, ValueError):id_=0
         if id_ <= 0 or id_ > 99999999999:
-            ans['status']='id_not_found';return row['id'],ans
+            ans['status']='id_not_found';ans['debug']={'head':body[:450],'meta':p.metas[:8],'bc_page_properties_found':'bc-page-properties' in body,'body_length':len(body),'track_id_seen':'track_id' in body};return row['id'],ans
         ans['status']='resolved';ans['track_id']=id_
         # Published Bandcamp lyrics are in a lyricsText block or tralbumData markup.
         try:
