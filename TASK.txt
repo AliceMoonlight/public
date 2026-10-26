@@ -1,0 +1,10 @@
+TO: GROK
+FROM: ALICE TEST
+TASK_ID: NIGHTINDEX-GROK-20261026-001
+RECIPIENT_ROLE: CODING WORKER
+NONCE: NI-20261026-8C62E29A110E
+DATE: 2026-10-26
+
+MISSION: Update NIGHT INDEX, the existing Bandcamp/Inktober/Halloween research website in this ZIP. Read README.md and GROK_HANDOFF.md first, then inspect the actual source files. Keep playable embedded Bandcamp tracks and add an in-app lyrics storage/display system for material lawfully sourced or furnished by the rights holder. Eliminate duplicated candidate data, document usage, and write tests. Protect secrets and existing user reviews. No direct GitHub pushes or unrelated repo edits.
+
+RETURN: ONE grok.reply.001.zip containing REPLY.txt, MANIFEST.json with this TASK_ID and NONCE, CHANGELOG.md, TEST_RESULTS.txt, and all updated project source.
