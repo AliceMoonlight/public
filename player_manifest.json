@@ -1,25 +1,10 @@
 {
   "source": "Bandcamp public track pages",
-  "generated_at": "2026-10-26T05:48:27.370928+00:00",
+  "generated_at": "2026-10-26T05:53:03.852678+00:00",
   "tracks": {
     "bc-02-1": {
       "status": "not_track_page",
       "url": "https://jeffbrice.bandcamp.com/album/relic-arena-original-soundtrack",
-      "type": "album",
-      "has_published_lyrics": null
-    },
-    "bc-01-3": {
-      "status": "resolved",
-      "url": "https://theoxysatx.bandcamp.com/track/poison-apple",
-      "type": "track",
-      "has_published_lyrics": true,
-      "http_status": 200,
-      "track_id": 3671510315,
-      "lyric_word_count": 142
-    },
-    "bc-04-1": {
-      "status": "not_track_page",
-      "url": "https://alphamoonshine.bandcamp.com/album/usda-prime-cut-beats",
       "type": "album",
       "has_published_lyrics": null
     },
@@ -32,15 +17,36 @@
       "track_id": 254221223,
       "lyric_word_count": 0
     },
+    "bc-01-1": {
+      "status": "resolved",
+      "url": "https://prurient.bandcamp.com/track/poison-apple",
+      "type": "track",
+      "has_published_lyrics": false,
+      "http_status": 200,
+      "track_id": 2414164753,
+      "lyric_word_count": 0
+    },
+    "bc-01-3": {
+      "status": "resolved",
+      "url": "https://theoxysatx.bandcamp.com/track/poison-apple",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 3671510315,
+      "lyric_word_count": 142,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "blood",
+        "poison",
+        "grave",
+        "bones",
+        "dead"
+      ],
+      "lyric_excerpt": "I'm a poison apple, take your last bite"
+    },
     "bc-06-1": {
       "status": "not_track_page",
       "url": "https://mourningnoise.bandcamp.com/album/serpent-lip-service",
-      "type": "album",
-      "has_published_lyrics": null
-    },
-    "bc-07-1": {
-      "status": "not_track_page",
-      "url": "https://seasonal-malice.bandcamp.com/album/halloween",
       "type": "album",
       "has_published_lyrics": null
     },
@@ -53,23 +59,40 @@
       "track_id": 1677391945,
       "lyric_word_count": 0
     },
-    "bc-01-1": {
+    "bc-04-1": {
       "status": "resolved",
-      "url": "https://prurient.bandcamp.com/track/poison-apple",
-      "type": "track",
-      "has_published_lyrics": false,
-      "http_status": 200,
-      "track_id": 2414164753,
-      "lyric_word_count": 0
-    },
-    "bc-05-1": {
-      "status": "resolved",
-      "url": "https://dosquatro.bandcamp.com/track/no-disqualification",
+      "url": "https://alphamoonshine.bandcamp.com/track/satan-at-my-door-feat-katie-cp-gifford",
       "type": "track",
       "has_published_lyrics": true,
       "http_status": 200,
-      "track_id": 1275237568,
-      "lyric_word_count": 144
+      "track_id": 3047199357,
+      "lyric_word_count": 155,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "witch",
+        "satan",
+        "dead"
+      ],
+      "lyric_excerpt": "wanderin', found a cactus. Wanderin', wanderin', found a"
+    },
+    "bc-07-1": {
+      "status": "resolved",
+      "url": "https://seasonal-malice.bandcamp.com/track/panic-at-the-pumpkin-patch",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 2469819806,
+      "lyric_word_count": 214,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "witches",
+        "blood",
+        "devil",
+        "dead",
+        "fear",
+        "panic"
+      ],
+      "lyric_excerpt": "fly Tonight’s forecast: panic in the sky The"
     },
     "bc-08-1": {
       "status": "resolved",
@@ -78,7 +101,29 @@
       "has_published_lyrics": true,
       "http_status": 200,
       "track_id": 525098323,
-      "lyric_word_count": 187
+      "lyric_word_count": 187,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "blood",
+        "vampire",
+        "killer",
+        "sacrifice"
+      ],
+      "lyric_excerpt": "anything for youuuu Stinky feet I'll be your"
+    },
+    "bc-05-1": {
+      "status": "resolved",
+      "url": "https://dosquatro.bandcamp.com/track/no-disqualification",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 1275237568,
+      "lyric_word_count": 144,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "blood"
+      ],
+      "lyric_excerpt": "the other way Smack Down You’re not getting"
     },
     "bc-09-1": {
       "status": "resolved",
@@ -107,15 +152,6 @@
       "track_id": 2957632603,
       "lyric_word_count": 0
     },
-    "bc-12-1": {
-      "status": "resolved",
-      "url": "https://evilisland.bandcamp.com/track/blinding-rage",
-      "type": "track",
-      "has_published_lyrics": true,
-      "http_status": 200,
-      "track_id": 3226738556,
-      "lyric_word_count": 229
-    },
     "bc-11-1": {
       "status": "resolved",
       "url": "https://thebluehour.bandcamp.com/track/haunted",
@@ -123,16 +159,12 @@
       "has_published_lyrics": true,
       "http_status": 200,
       "track_id": 2456560821,
-      "lyric_word_count": 150
-    },
-    "bc-12-2": {
-      "status": "resolved",
-      "url": "https://headingnorthpgh.bandcamp.com/track/toss-turn",
-      "type": "track",
-      "has_published_lyrics": true,
-      "http_status": 200,
-      "track_id": 2323959581,
-      "lyric_word_count": 166
+      "lyric_word_count": 150,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "haunted"
+      ],
+      "lyric_excerpt": "for me And rescue me from the deep"
     },
     "bc-11-2": {
       "status": "resolved",
@@ -141,7 +173,46 @@
       "has_published_lyrics": true,
       "http_status": 200,
       "track_id": 3329126809,
-      "lyric_word_count": 99
+      "lyric_word_count": 99,
+      "prompt_in_lyrics": false,
+      "horror_words": [
+        "ghosts",
+        "haunted",
+        "murderous"
+      ],
+      "lyric_excerpt": "attic full of murderous ghosts How long will"
+    },
+    "bc-12-1": {
+      "status": "resolved",
+      "url": "https://evilisland.bandcamp.com/track/blinding-rage",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 3226738556,
+      "lyric_word_count": 229,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "skull",
+        "dead",
+        "kill"
+      ],
+      "lyric_excerpt": "my last I toss and turn in my"
+    },
+    "bc-12-2": {
+      "status": "resolved",
+      "url": "https://headingnorthpgh.bandcamp.com/track/toss-turn",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 2323959581,
+      "lyric_word_count": 166,
+      "prompt_in_lyrics": false,
+      "horror_words": [
+        "blood",
+        "bones",
+        "skull"
+      ],
+      "lyric_excerpt": "buzz in my bones There's a snake in"
     },
     "bc-13-1": {
       "status": "resolved",
@@ -150,7 +221,10 @@
       "has_published_lyrics": true,
       "http_status": 200,
       "track_id": 2034282066,
-      "lyric_word_count": 192
+      "lyric_word_count": 192,
+      "prompt_in_lyrics": true,
+      "horror_words": [],
+      "lyric_excerpt": "oh flimsy Steve mercy me mercy me ooh"
     },
     "bc-14-1": {
       "status": "resolved",
@@ -174,16 +248,14 @@
       "has_published_lyrics": true,
       "http_status": 200,
       "track_id": 967801113,
-      "lyric_word_count": 176
-    },
-    "bc-15-1": {
-      "status": "resolved",
-      "url": "https://deathrayrobin.bandcamp.com/track/spooky-without-you",
-      "type": "track",
-      "has_published_lyrics": true,
-      "http_status": 200,
-      "track_id": 264136140,
-      "lyric_word_count": 328
+      "lyric_word_count": 176,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "blood",
+        "bloody",
+        "vampire"
+      ],
+      "lyric_excerpt": "Vampire lady It’s a quarter to midnight I’m"
     },
     "bc-15-2": {
       "status": "resolved",
@@ -192,7 +264,29 @@
       "has_published_lyrics": true,
       "http_status": 200,
       "track_id": 3421315878,
-      "lyric_word_count": 277
+      "lyric_word_count": 277,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "ghost",
+        "dead",
+        "death"
+      ],
+      "lyric_excerpt": "for a ghost, Hooray, you found him Resurrect"
+    },
+    "bc-15-1": {
+      "status": "resolved",
+      "url": "https://deathrayrobin.bandcamp.com/track/spooky-without-you",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 264136140,
+      "lyric_word_count": 328,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "bones",
+        "dead"
+      ],
+      "lyric_excerpt": "you (Hip, hip, hooray for me) I’ll never"
     },
     "bc-16-1": {
       "status": "resolved",
@@ -201,31 +295,15 @@
       "has_published_lyrics": true,
       "http_status": 200,
       "track_id": 387630773,
-      "lyric_word_count": 141
-    },
-    "bc-18-1": {
-      "status": "resolved",
-      "url": "https://allratsgotoheaven.bandcamp.com/track/trash-two",
-      "type": "track",
-      "has_published_lyrics": true,
-      "http_status": 200,
-      "track_id": 3400907650,
-      "lyric_word_count": 113
-    },
-    "bc-20-1": {
-      "status": "not_track_page",
-      "url": "https://infernalorder.bandcamp.com/album/the-ritualistic-sounds-of",
-      "type": "album",
-      "has_published_lyrics": null
-    },
-    "bc-17-1": {
-      "status": "resolved",
-      "url": "https://lemondemon.bandcamp.com/track/cabinet-man",
-      "type": "track",
-      "has_published_lyrics": true,
-      "http_status": 200,
-      "track_id": 1300617079,
-      "lyric_word_count": 335
+      "lyric_word_count": 141,
+      "prompt_in_lyrics": false,
+      "horror_words": [
+        "blood",
+        "bones",
+        "slender",
+        "kill"
+      ],
+      "lyric_excerpt": "your pants, The Slender Man! The Slenderman man!"
     },
     "bc-18-2": {
       "status": "resolved",
@@ -234,7 +312,48 @@
       "has_published_lyrics": true,
       "http_status": 200,
       "track_id": 653281864,
-      "lyric_word_count": 84
+      "lyric_word_count": 84,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "ghost",
+        "cursed",
+        "dead"
+      ],
+      "lyric_excerpt": "Flightless, we stand Firmly on the cursed soil"
+    },
+    "bc-20-1": {
+      "status": "not_track_page",
+      "url": "https://infernalorder.bandcamp.com/album/the-ritualistic-sounds-of",
+      "type": "album",
+      "has_published_lyrics": null
+    },
+    "bc-18-1": {
+      "status": "resolved",
+      "url": "https://allratsgotoheaven.bandcamp.com/track/trash-two",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 3400907650,
+      "lyric_word_count": 113,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "dead"
+      ],
+      "lyric_excerpt": "the rest Destitute, Flightless bird of the nest"
+    },
+    "bc-17-1": {
+      "status": "resolved",
+      "url": "https://lemondemon.bandcamp.com/track/cabinet-man",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 1300617079,
+      "lyric_word_count": 335,
+      "prompt_in_lyrics": false,
+      "horror_words": [
+        "blood"
+      ],
+      "lyric_excerpt": "they see my blood on their sneakers You"
     },
     "bc-19-1": {
       "status": "resolved",
@@ -243,25 +362,13 @@
       "has_published_lyrics": true,
       "http_status": 200,
       "track_id": 1611918574,
-      "lyric_word_count": 190
-    },
-    "bc-22-1": {
-      "status": "resolved",
-      "url": "https://adarook.bandcamp.com/track/broken-beacon",
-      "type": "track",
-      "has_published_lyrics": true,
-      "http_status": 200,
-      "track_id": 3018314680,
-      "lyric_word_count": 188
-    },
-    "bc-22-2": {
-      "status": "resolved",
-      "url": "https://sunispoison.bandcamp.com/track/i-dreamt-i-became-a-beacon",
-      "type": "track",
-      "has_published_lyrics": true,
-      "http_status": 200,
-      "track_id": 167873732,
-      "lyric_word_count": 345
+      "lyric_word_count": 190,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "blood",
+        "ghost"
+      ],
+      "lyric_excerpt": "ghost are so confused I can’t feel my"
     },
     "bc-21-1": {
       "status": "resolved",
@@ -272,6 +379,36 @@
       "track_id": 3553281573,
       "lyric_word_count": 0
     },
+    "bc-22-2": {
+      "status": "resolved",
+      "url": "https://sunispoison.bandcamp.com/track/i-dreamt-i-became-a-beacon",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 167873732,
+      "lyric_word_count": 345,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "ghost",
+        "fear"
+      ],
+      "lyric_excerpt": "i became a beacon and i laid your"
+    },
+    "bc-22-1": {
+      "status": "resolved",
+      "url": "https://adarook.bandcamp.com/track/broken-beacon",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 3018314680,
+      "lyric_word_count": 188,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "ghost",
+        "curse"
+      ],
+      "lyric_excerpt": "failing signal broken beacon i don't understand strip"
+    },
     "bc-23-1": {
       "status": "resolved",
       "url": "https://godzovwarproductions.bandcamp.com/track/the-devil-wears-well",
@@ -279,7 +416,12 @@
       "has_published_lyrics": true,
       "http_status": 200,
       "track_id": 3994749633,
-      "lyric_word_count": 287
+      "lyric_word_count": 287,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "devil"
+      ],
+      "lyric_excerpt": "A dapper devil in my mind Knows the"
     },
     "bc-24-1": {
       "status": "resolved",
@@ -288,16 +430,22 @@
       "has_published_lyrics": true,
       "http_status": 200,
       "track_id": 2052589551,
-      "lyric_word_count": 275
+      "lyric_word_count": 275,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "witch",
+        "kill"
+      ],
+      "lyric_excerpt": "a dream state Bake sense into the bizarre"
     },
-    "bc-26-1": {
+    "bc-25-2": {
       "status": "resolved",
-      "url": "https://otakumusicgroup.bandcamp.com/track/splatter-party",
+      "url": "https://lokore.bandcamp.com/track/fracture",
       "type": "track",
-      "has_published_lyrics": true,
+      "has_published_lyrics": false,
       "http_status": 200,
-      "track_id": 3457352527,
-      "lyric_word_count": 459
+      "track_id": 2528213323,
+      "lyric_word_count": 0
     },
     "bc-25-1": {
       "status": "resolved",
@@ -308,14 +456,22 @@
       "track_id": 2434221292,
       "lyric_word_count": 0
     },
-    "bc-25-2": {
+    "bc-26-1": {
       "status": "resolved",
-      "url": "https://lokore.bandcamp.com/track/fracture",
+      "url": "https://otakumusicgroup.bandcamp.com/track/splatter-party",
       "type": "track",
-      "has_published_lyrics": false,
+      "has_published_lyrics": true,
       "http_status": 200,
-      "track_id": 2528213323,
-      "lyric_word_count": 0
+      "track_id": 3457352527,
+      "lyric_word_count": 459,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "blood",
+        "death",
+        "possessed",
+        "slender"
+      ],
+      "lyric_excerpt": "blood trickles down 取り憑かれたように（zip zap zip zap） 무언가에"
     },
     "bc-27-1": {
       "status": "resolved",
@@ -333,7 +489,12 @@
       "has_published_lyrics": true,
       "http_status": 200,
       "track_id": 2377793025,
-      "lyric_word_count": 76
+      "lyric_word_count": 76,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "possession"
+      ],
+      "lyric_excerpt": "Trophy hunting Stalk big game Militarize your wealth"
     },
     "bc-28-2": {
       "status": "resolved",
@@ -342,22 +503,21 @@
       "has_published_lyrics": true,
       "http_status": 200,
       "track_id": 793182636,
-      "lyric_word_count": 236
+      "lyric_word_count": 236,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "demon",
+        "curse",
+        "skull",
+        "dead"
+      ],
+      "lyric_excerpt": "I want a trophy of your race Freezing"
     },
     "bc-31-1": {
       "status": "not_track_page",
       "url": "https://wyxz.bandcamp.com/album/wickman",
       "type": "album",
       "has_published_lyrics": null
-    },
-    "bc-30-1": {
-      "status": "resolved",
-      "url": "https://goatsurgeon.bandcamp.com/track/cookie-monster-death-metal",
-      "type": "track",
-      "has_published_lyrics": true,
-      "http_status": 200,
-      "track_id": 3686588268,
-      "lyric_word_count": 346
     },
     "bc-29-1": {
       "status": "resolved",
@@ -366,16 +526,27 @@
       "has_published_lyrics": true,
       "http_status": 200,
       "track_id": 2295133269,
-      "lyric_word_count": 115
+      "lyric_word_count": 115,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "monster",
+        "darkness"
+      ],
+      "lyric_excerpt": "Tusk, is that you? What made this monster"
     },
-    "bc-31-2": {
+    "bc-30-1": {
       "status": "resolved",
-      "url": "https://hideous-sun-demon.bandcamp.com/track/flex",
+      "url": "https://goatsurgeon.bandcamp.com/track/cookie-monster-death-metal",
       "type": "track",
       "has_published_lyrics": true,
       "http_status": 200,
-      "track_id": 3801016440,
-      "lyric_word_count": 112
+      "track_id": 3686588268,
+      "lyric_word_count": 346,
+      "prompt_in_lyrics": true,
+      "horror_words": [
+        "monster"
+      ],
+      "lyric_excerpt": "- thrash beat Cookie monster wants a cookie"
     },
     "bc-30-2": {
       "status": "resolved",
@@ -385,11 +556,23 @@
       "http_status": 200,
       "track_id": 4184755111,
       "lyric_word_count": 0
+    },
+    "bc-31-2": {
+      "status": "resolved",
+      "url": "https://hideous-sun-demon.bandcamp.com/track/flex",
+      "type": "track",
+      "has_published_lyrics": true,
+      "http_status": 200,
+      "track_id": 3801016440,
+      "lyric_word_count": 112,
+      "prompt_in_lyrics": true,
+      "horror_words": [],
+      "lyric_excerpt": "man up Superhero F.L.E.X Shirt off, oil up"
     }
   },
   "counts": {
-    "resolved": 38,
+    "resolved": 40,
     "attempted": 45,
-    "lyrics_verified": 26
+    "lyrics_verified": 28
   }
 }
