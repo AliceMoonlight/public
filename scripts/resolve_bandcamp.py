@@ -6,7 +6,7 @@ import json, re, html, time, os, datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from html.parser import HTMLParser
 from urllib.parse import urlparse
-import requests
+from curl_cffi import requests
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 rows = json.load(open(os.path.join(ROOT, 'candidates.json'), encoding='utf-8'))['candidates']
@@ -25,7 +25,7 @@ def inspect(row):
         ans['status'] = 'not_track_page'; return row['id'],ans
     for attempt in range(2):
       try:
-        r = requests.get(url, timeout=28, headers={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36','Accept-Language':'en-US,en;q=0.9'})
+        r = requests.get(url, timeout=28, impersonate='chrome', headers={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36','Accept-Language':'en-US,en;q=0.9'})
         ans['http_status'] = r.status_code
         if r.status_code != 200:
             ans['status'] = 'http_error'; time.sleep(attempt+1); continue
