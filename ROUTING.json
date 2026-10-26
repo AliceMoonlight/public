@@ -1,0 +1,11 @@
+{
+  "to": "GROK",
+  "from": "ALICE TEST",
+  "task_id": "NIGHTINDEX-GROK-20261026-001",
+  "recipient_role": "CODING WORKER",
+  "nonce": "NI-20261026-8C62E29A110E",
+  "status": "outbound",
+  "source_repo": "AliceMoonlight/public",
+  "source_branch": "main",
+  "expected_reply": "grok.reply.001.zip"
+}
