@@ -8,6 +8,8 @@ from html.parser import HTMLParser
 from urllib.parse import urlparse
 from curl_cffi import requests
 
+HORROR_WORDS = ['halloween','witch','witches','blood','bloody','ghost','ghosts','vampire','zombie','zombies','haunted','haunt','demon','devil','satan','curse','cursed','poison','grave','graveyard','cemetery','bones','skull','corpse','dead','death','fear','panic','nightmare','evil','monster','monsters','skeleton','shadow','darkness','ritual','magic','possession','possessed','coffin','horror','reaper','tomb','witchcraft','sorcery','slender','slaughter','kill','killer','murder','murderous','sacrifice','haunting']
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 rows = json.load(open(os.path.join(ROOT, 'candidates.json'), encoding='utf-8'))['candidates']
 
@@ -53,6 +55,27 @@ def inspect(row):
                 txt=node.get_text(' ',strip=True)
                 ans['has_published_lyrics']=len(txt)>35 and 'lyrics' not in txt.lower()[:20]
                 ans['lyric_word_count']=len(txt.split()) if ans['has_published_lyrics'] else 0
+                if ans['has_published_lyrics']:
+                    prompt = row['prompt'].lower()
+                    text_lower=txt.lower()
+                    ans['prompt_in_lyrics']=bool(re.search(r'(?<![a-z])'+re.escape(prompt)+r'(?![a-z])',text_lower))
+                    found=[w for w in HORROR_WORDS if re.search(r'(?<![a-z])'+re.escape(w)+r'(?![a-z])',text_lower)]
+                    ans['horror_words']=found[:12]
+                    words=txt.split()
+                    # Only a short excerpt (<= 8 words) is retained; never persist full lyrics.
+                    sample_index=0
+                    for i, word in enumerate(words):
+                        norm=re.sub(r'[^a-z]','',word.lower())
+                        if norm==prompt:
+                            sample_index=i;break
+                    else:
+                        for i, word in enumerate(words):
+                            norm=re.sub(r'[^a-z]','',word.lower())
+                            if norm in found:
+                                sample_index=i;break
+                    start=max(0,sample_index-3)
+                    ans['lyric_excerpt']=' '.join(words[start:start+8])
+
             else:
                 # All pages contain the word lyrics in menus, so default to not verified.
                 ans['has_published_lyrics']=False
