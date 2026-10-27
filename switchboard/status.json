@@ -1,0 +1,36 @@
+{
+  "schema": "ALICE_PUBLIC_SWITCHBOARD_SNAPSHOT_V1",
+  "generated_utc": "2026-10-27T22:23:00Z",
+  "owner": "Alice Moonlight",
+  "update_mode": "MANUAL_SNAPSHOT_NOT_LIVE",
+  "project_count": 3,
+  "projects": [
+    {
+      "id": "alice.dj.inktober-night-signal",
+      "title": "Inktober Night Signal DJ",
+      "status": "paused",
+      "safe_public_summary": "Music research and lyrics-first DJ workspace; latest full archive verified, lyrics collection still requires live verification.",
+      "public_next": "Validate lyrics collection; coordinate DJ-only Quin integration through Miss Spock"
+    },
+    {
+      "id": "alice.night-index",
+      "title": "Night Index public music site",
+      "status": "paused",
+      "safe_public_summary": "Existing independent Inktober music site. No Night Index application files changed by the switchboard project.",
+      "public_next": "Await project-specific request"
+    },
+    {
+      "id": "alice.ops.project-switchboard",
+      "title": "Alice project switchboard",
+      "status": "active",
+      "safe_public_summary": "Read-only public dashboard and private project checkpoint/routing tools.",
+      "public_next": "Check dashboard on phone; align generic envelopes with Miss Spock"
+    }
+  ],
+  "handoffs": {
+    "accepted_for_review": 0,
+    "quarantined": 0,
+    "note": "No real inbound deliveries have been processed by this new desk yet"
+  },
+  "other_agents": "Other agents own and update their own project records. Routing identities are distinct."
+}
