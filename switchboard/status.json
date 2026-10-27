@@ -1,6 +1,6 @@
 {
   "schema": "ALICE_PUBLIC_SWITCHBOARD_SNAPSHOT_V1",
-  "generated_utc": "2026-10-27T22:23:00Z",
+  "generated_utc": "2026-10-27T22:45:00Z",
   "owner": "Alice Moonlight",
   "update_mode": "MANUAL_SNAPSHOT_NOT_LIVE",
   "project_count": 3,
@@ -32,5 +32,10 @@
     "quarantined": 0,
     "note": "No real inbound deliveries have been processed by this new desk yet"
   },
-  "other_agents": "Other agents own and update their own project records. Routing identities are distinct."
+  "other_agents": "Other agents own and update their own project records. Routing identities are distinct.",
+  "expeditions": {
+    "reserved": 1,
+    "active": 0,
+    "description": "One temporary Expedition Alice workspace is reserved in Alice's private GitHub. No additional agent is running; Human must explicitly authorize activation."
+  }
 }
