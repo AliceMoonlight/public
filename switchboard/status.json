@@ -1,9 +1,9 @@
 {
   "schema": "ALICE_PUBLIC_SWITCHBOARD_SNAPSHOT_V1",
-  "generated_utc": "2026-10-27T22:45:00Z",
+  "generated_utc": "2026-10-27T23:43:55.914Z",
   "owner": "Alice Moonlight",
   "update_mode": "MANUAL_SNAPSHOT_NOT_LIVE",
-  "project_count": 3,
+  "project_count": 4,
   "projects": [
     {
       "id": "alice.dj.inktober-night-signal",
@@ -22,9 +22,16 @@
     {
       "id": "alice.ops.project-switchboard",
       "title": "Alice project switchboard",
-      "status": "active",
+      "status": "paused",
       "safe_public_summary": "Read-only public dashboard and private project checkpoint/routing tools.",
       "public_next": "Check dashboard on phone; align generic envelopes with Miss Spock"
+    },
+    {
+      "id": "alice.field-agent-radio",
+      "title": "Field Agent Android radio",
+      "status": "active",
+      "safe_public_summary": "Alice-owned voice-radio design review. Android testing and implementation not yet performed; existing app and other agents unchanged.",
+      "public_next": "Discuss and approve narrow push-to-talk implementation, then validate on actual Android tablet"
     }
   ],
   "handoffs": {
