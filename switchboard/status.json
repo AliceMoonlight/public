@@ -1,6 +1,6 @@
 {
   "schema": "ALICE_PUBLIC_SWITCHBOARD_SNAPSHOT_V1",
-  "generated_utc": "2026-10-28T02:38:03.181Z",
+  "generated_utc": "2026-10-28T02:49:29.572Z",
   "owner": "Alice Moonlight",
   "update_mode": "MANUAL_SNAPSHOT_NOT_LIVE",
   "project_count": 4,
@@ -8,9 +8,9 @@
     {
       "id": "alice.dj.inktober-night-signal",
       "title": "Inktober Night Signal DJ",
-      "status": "paused",
-      "safe_public_summary": "Music research and lyrics-first DJ workspace; latest full archive verified, lyrics collection still requires live verification.",
-      "public_next": "Validate lyrics collection; coordinate DJ-only Quin integration through Miss Spock"
+      "status": "active",
+      "safe_public_summary": "Inktober Night Signal DJ active; Solo 050 complete, Solo 051 next. Lyrics-first standalone research app, real live lyric retrieval not yet verified; original 20 proposals remain unapproved.",
+      "public_next": "DJ Solo 051: verify automatic lyrics collection and improve DJ-only source handling."
     },
     {
       "id": "alice.night-index",
@@ -30,8 +30,8 @@
       "id": "alice.field-agent-radio",
       "title": "Field Agent Android radio",
       "status": "paused",
-      "safe_public_summary": "Alice project paused at Radio Round 003 complete (offline prototype). Waiting for Human to select next project. No mobile APK yet.",
-      "public_next": "Resume Round 004 only when Human selects Field Agent again."
+      "safe_public_summary": "Field Agent Radio paused after Round 003 offline prototype; Round 004 not started; no compiled APK or live Alice Prime connection.",
+      "public_next": "Resume only when Human explicitly selects Field Agent again."
     }
   ],
   "handoffs": {
