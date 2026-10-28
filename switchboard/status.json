@@ -1,6 +1,6 @@
 {
   "schema": "ALICE_PUBLIC_SWITCHBOARD_SNAPSHOT_V1",
-  "generated_utc": "2026-10-27T23:43:55.914Z",
+  "generated_utc": "2026-10-28T00:12:58.922Z",
   "owner": "Alice Moonlight",
   "update_mode": "MANUAL_SNAPSHOT_NOT_LIVE",
   "project_count": 4,
@@ -30,8 +30,8 @@
       "id": "alice.field-agent-radio",
       "title": "Field Agent Android radio",
       "status": "active",
-      "safe_public_summary": "Alice-owned voice-radio design review. Android testing and implementation not yet performed; existing app and other agents unchanged.",
-      "public_next": "Discuss and approve narrow push-to-talk implementation, then validate on actual Android tablet"
+      "safe_public_summary": "One-crew Field Agent radio UI and offline message engine prototype completed; 32 automated tests pass. No Android APK, real microphone service, AI connection, or remote GitHub full backpack upload yet.",
+      "public_next": "Prepare actual Flutter integration and finish verified private full-backpack GitHub upload; no user mini-tests while traveling"
     }
   ],
   "handoffs": {
